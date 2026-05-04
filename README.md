@@ -5,6 +5,11 @@
 빠른 이미지 업로드와 조회는 물론, 다양한 이미지 크기에 대한 유연한 처리를 통해 보다 매끄럽고 직관적인 사용자 경험 제공
 <br>
 <br>
+## 📋 최종 발표회 브로셔
+> 🔗 <a href="https://teamsparta.notion.site/4-Storage-Service-17e981c3249d47128b67cafebd09d4ee" target="_blank">4# Storage Service</a>
+<br>
+<br>
+
 ## 🏗️인프라 설계도
 ![image](https://github.com/user-attachments/assets/d3bcd442-09ed-42e2-8f85-665ab47d303b)
 <br>
